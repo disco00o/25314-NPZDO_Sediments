@@ -5,3 +5,4 @@ This project extends an NPZDO model to study sediment redox reactions and their 
 ## Repository Structure
 - **`Project description.pdf`** – Brief description of the project, research question, and model approach.
 - **`Updated Project description.pdf`** – Updated description of the project, sketch and chemical equations.
+- **`project.ipynb`** - Code
